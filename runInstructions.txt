@@ -1,0 +1,7 @@
+Run Instructions:
+
+1. Download getFiredGitHub.zip
+
+2. Extract all files (getFiredPCBuild.exe, UnityPlayer.dll, and getFiredPCBuild_Data)
+
+3. Start getFiredPCBuild.exe
